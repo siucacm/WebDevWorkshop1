@@ -1,4 +1,4 @@
-# WebDevWorskhop1
+# WebDevWorkshop1
 Topics: Basic functions of HTML, CSS, Javascript, and Bootstrap
 
 
