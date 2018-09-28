@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Workshop 1</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+ 
+    <!---Links design.css to this HTML page--->    
+  <link rel="stylesheet" type="text/css" href="design.css">
+    
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  
+  <!---Links script myScript.js to this HTML page--->
+  <script src="myScript.js"></script>
+  
+</head>
+<body>
+
+<div class="jumbotron text-center">
+    <h1> Web Development Workshop 1</h1>
+    <p>Utilizing HTML, CSS, JavaScript, and Bootstrap</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+        <h3>Get Day</h3>
+        <hr>
+        
+        <!---Button event onclick calls the function getDate() when the button is clicked--->
+        <button type="button" class="btn" onclick="getDate()">Display</button>
+        
+    </div>
+    <div class="col-sm-4">
+        <h3>Switch Font</h3>
+        <hr>
+        <p id="chText" class="firstfont">This text is to show you how easy it easy it is to switch between classes using JavaScript</p>
+        
+        <!---Button event onclick calls changeFont() when the button is clicked--->
+        <button type="button" class="btn" onclick="changeFont()">Change</button>
+        
+    </div>
+    <div class="col-sm-4">
+        <h3>Form Input</h3>  
+        <hr>
+        <p> Full Name:</p>
+        <input id="name" class="form-control">
+        <p>Interest in Computer Science:</p>
+        <input id="interest" class="form-control">
+        <p></p>
+        <button type="button" class="btn" onclick="takeInput()">Submit</button>
+        
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
+

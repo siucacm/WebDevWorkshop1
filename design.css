@@ -1,0 +1,21 @@
+h1,h3{
+    color: maroon
+}
+.btn{
+    color: black;
+}
+.btn:hover{
+    color: lightcyan;
+    background: grey
+}
+firstfont{
+    color:black;
+    
+}
+.secondfont{
+    color:fuchsia;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Times New Roman"
+}
