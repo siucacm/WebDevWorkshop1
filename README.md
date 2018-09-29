@@ -2,7 +2,7 @@
 Topics: Basic understanding of HTML, CSS, Javascript, and Bootstrap
 
 
-HTML:
+## HTML:
 
 What is HTML?
 
@@ -17,28 +17,28 @@ The building blocks of HTML web pages are called "elements", which are represent
 Common elements:
 
 
-p: Paragraphs
+#### p: Paragraphs
 
 
-h(1-6): Headings
+#### h(1-6): Headings
 
-a: Links
-
-
-img: Images
+#### a: Links
 
 
-button: Button
+#### img: Images
 
 
-ul/li: Unordered/Ordered lists
+#### button: Button
 
 
-div: Division in a web page
+#### ul/li: Unordered/Ordered lists
+
+
+#### div: Division in a web page
 
 
 
-CSS:
+## CSS:
 
 
 What is CSS?
@@ -57,7 +57,7 @@ CSS(Cascading Style Sheets) is used to define styles for a web page, such as...
 
 
 
-JavaScript:
+## JavaScript:
 
 
-Bootstrap:
+## Bootstrap:
