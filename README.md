@@ -44,20 +44,35 @@ Common elements:
 What is CSS?
 
 
-CSS(Cascading Style Sheets) is used to define styles for a web page, such as...
+CSS(Cascading Style Sheets) is used to define styles for a web page, such as color, size, etc.
 
 
--Color
+Three Ways to include CSS into your web page:
 
 
--Size
+#### Inline 
 
 
--Style
+#### Internal style sheet
 
+
+#### External style sheet
 
 
 ## JavaScript:
 
 
+Where HTML and CSS are more for designing a web page, JavaScript is used for adding functionality to it.
+
+
+
+
 ## Bootstrap:
+
+
+
+
+For more information on these topics, check out this link:
+
+
+https://www.w3schools.com/
