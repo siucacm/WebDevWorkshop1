@@ -26,6 +26,7 @@ The building blocks of HTML web pages are called "elements", which are represent
 
      h(1-6): Headings
 
+
      a: Links
 
 
@@ -35,7 +36,10 @@ The building blocks of HTML web pages are called "elements", which are represent
      button: Button
 
 
-     ul/li: Unordered/Ordered lists
+     ul/ol: Unordered/Ordered lists
+     
+     
+     li: List elements
 
 
      div: Division in a web page
@@ -81,6 +85,7 @@ Where HTML and CSS are more for designing a web page, JavaScript is used for add
 
 Can be used when certain events take place on your web page or you want some event to occur. 
 
+
 ### Can be placed in three places:
 
 
@@ -92,7 +97,7 @@ Can be used when certain events take place on your web page or you want some eve
 
     An external JavaScript document 
      
-     
+         
  Example of JavaScript function:
  
     <script>
