@@ -13,10 +13,20 @@ HTML is a markup language used in developing web pages.
 The building blocks of HTML web pages are called "elements", which are represented by tags.
 
 
-### Syntax of a element:
+### Syntax of a tag:
 
 
     <  element  >  <  /element  >
+
+
+All HTML documents must start with a document type declaration: <  !DOCTYPE html  >.
+
+
+The HTML document itself begins with <  html  > and ends with <  /html  >.
+
+
+The visible part of the HTML document is between <  body  > and <  /body  >.
+
 
 ### Common elements:
 
@@ -44,6 +54,22 @@ The building blocks of HTML web pages are called "elements", which are represent
 
      div: Division in a web page
 
+
+
+
+HTML Example:
+
+    
+    <!DOCTYPE html>
+        <html>
+        <body>
+
+        <h1>My First Heading</h1>
+
+        <p>My first paragraph.</p>
+
+        </body>
+        </html>
 
 
 ## CSS:
