@@ -48,7 +48,7 @@ The building blocks of HTML web pages are called "elements", which are represent
 What is CSS?
 
 
-CSS(Cascading Style Sheets) is used to define styles for a web page, such as color, size, etc.
+CSS (Cascading Style Sheets) is used to define styles for a web page, such as color, size, etc.
 
 
 ### Three Ways to include CSS into your web page:
@@ -63,24 +63,47 @@ CSS(Cascading Style Sheets) is used to define styles for a web page, such as col
     External style sheet
 
 
+Form of a CSS internal or external style sheet:
+
+
+     p{
+          color: red;
+          font-family: Times New Roman;
+          font-weight: bold
+        }
+        
+        
 ## JavaScript:
 
 
 Where HTML and CSS are more for designing a web page, JavaScript is used for adding functionality to it.
 
 
+Can be used when certain events take place on your web page or you want some event to occur. 
+
 ### Can be placed in three places:
 
 
-     In the <  body  > section of an HTML file
+    In the <  body  > section of an HTML file
 
 
-     In the <  head  > section of an HTML file
+    In the <  head  > section of an HTML file
 
 
-     An external JavaScript document 
+    An external JavaScript document 
+     
+     
+ Example of JavaScript function:
+ 
+    <script>
+        function myFunction() {
+            alert('Hello World');
+        }
+    </script>
+    
+    
 
-
+##
 
 For more information on these topics, check out this link:
 
