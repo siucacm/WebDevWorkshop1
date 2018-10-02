@@ -1,5 +1,5 @@
 # WebDevWorkshop1
-Topics: Basic understanding of HTML, CSS, Javascript, and Bootstrap
+Topics: Basic understanding of HTML, CSS, and JavaScript
 
 
 ## HTML:
@@ -13,28 +13,32 @@ HTML is a markup language used in developing web pages.
 The building blocks of HTML web pages are called "elements", which are represented by tags.
 
 
-
-Common elements:
-
-
-#### p: Paragraphs
+### Syntax of a element:
 
 
-#### h(1-6): Headings
+    <  element  >  <  /element  >
 
-#### a: Links
-
-
-#### img: Images
+### Common elements:
 
 
-#### button: Button
+     p: Paragraphs
 
 
-#### ul/li: Unordered/Ordered lists
+     h(1-6): Headings
+
+     a: Links
 
 
-#### div: Division in a web page
+     img: Images
+
+
+     button: Button
+
+
+     ul/li: Unordered/Ordered lists
+
+
+     div: Division in a web page
 
 
 
@@ -47,16 +51,16 @@ What is CSS?
 CSS(Cascading Style Sheets) is used to define styles for a web page, such as color, size, etc.
 
 
-Three Ways to include CSS into your web page:
+### Three Ways to include CSS into your web page:
 
 
-#### Inline 
+    Inline 
 
 
-#### Internal style sheet
+    Internal style sheet
 
 
-#### External style sheet
+    External style sheet
 
 
 ## JavaScript:
@@ -65,10 +69,16 @@ Three Ways to include CSS into your web page:
 Where HTML and CSS are more for designing a web page, JavaScript is used for adding functionality to it.
 
 
+### Can be placed in three places:
 
 
-## Bootstrap:
+     In the <  body  > section of an HTML file
 
+
+     In the <  head  > section of an HTML file
+
+
+     An external JavaScript document 
 
 
 
