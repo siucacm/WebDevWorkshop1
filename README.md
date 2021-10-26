@@ -37,7 +37,7 @@ The visible part of the HTML document is between < body > and < /body >.
      <p>: Paragraphs
 
 
-     <h(1-6)>: Headings
+     <h1> - <h6>: Headings
 
 
      <a>: Links
@@ -61,6 +61,21 @@ The visible part of the HTML document is between < body > and < /body >.
      <br>: Break line in content
 
 
+
+### HTML Attributes
+
+
+- All HTML elements can have attributes
+- Attributes provide additional information about elements
+- Attributes are always specified in the start tag
+- Attributes usually come in name/value pairs like: name="value"
+
+
+**Examples:**
+
+    <a href="https://www.w3schools.com">Visit W3Schools</a>
+    
+    <img src="img_girl.jpg" width="500" height="600">
 
 
 ### HTML Example:
