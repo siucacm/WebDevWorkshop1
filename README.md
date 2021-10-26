@@ -99,6 +99,60 @@ The visible part of the HTML document is between < body > and < /body >.
 #### Save this code as a .html file and open in your web browser to view the created page.**
 
 
+### HTML Block and Inline Elements
+
+#### Block-Level Elements
+
+A block-level element always starts on a new line.
+
+A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
+
+A block level element has a top and a bottom margin, whereas an inline element does not.
+
+
+![image](https://user-images.githubusercontent.com/56050513/138971154-060bb7dc-d3a4-4940-941d-07d8361f2359.png)
+
+
+**The < div > Element**
+    
+    
+The < div > element is often used as a container for other HTML elements.
+
+The < div > element has no required attributes, but style, class and id are common.
+
+When used together with CSS, the < div > element can be used to style blocks of content:
+
+    
+**Example**
+    
+    <div style="background-color:black;color:white;padding:20px;">
+      <h2>London</h2>
+      <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+    </div>
+
+#### Inline Elements
+
+An inline element does not start on a new line.
+
+An inline element only takes up as much width as necessary.
+
+![image](https://user-images.githubusercontent.com/56050513/138971264-6d3b2dcc-c392-45cc-a70f-b7747a8fef83.png)
+
+
+**The < span > Element**
+    
+    
+The < span > element is an inline container used to mark up a part of a text, or a part of a document.
+
+The < span > element has no required attributes, but style, class and id are common.
+
+When used together with CSS, the < span > element can be used to style parts of the text:
+
+**Example**
+    
+    <p>My mother has <span style="color:blue;font-weight:bold">blue</span> eyes and my father has <span style="color:darkolivegreen;font-weight:bold">dark green</span> eyes.</p>
+    
+
 
 ## CSS:
 
